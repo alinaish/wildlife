@@ -1,0 +1,12 @@
+.payment {
+    width: 400px;
+}
+
+
+.payment__label {
+    width: 100%;
+}
+
+.payment__input {
+    width: 100%;
+}
